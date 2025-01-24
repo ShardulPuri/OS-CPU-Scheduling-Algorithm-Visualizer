@@ -46,7 +46,7 @@ The OS CPU Scheduling Algorithm Visualizer is a user-friendly tool designed to g
 
 - Clone the Repository:
 
-git clone <repository_url>
+- git clone https://github.com/ShardulPuri/OS-CPU-Scheduling-Algorithm-Visualizer
 
 - Open the Visualizer:
 
